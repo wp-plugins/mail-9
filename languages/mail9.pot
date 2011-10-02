@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail 9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-02 09:33+0900\n"
+"PO-Revision-Date: 2011-10-02 09:34+0900\n"
+"Last-Translator: Takayuki Miyoshi <takayukister@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: mail-9\n"
+
+#: mail-9/mail-9.php:5
+msgid "Mail 9 manages your mail queue."
+msgstr ""
+
+#: mail-9/settings.php:17
+#: mail-9/settings.php:18
+msgid "Mail"
+msgstr ""
+
+#: mail-9/settings.php:19
+msgid "Add New Mail"
+msgstr ""
+
+#: mail-9/settings.php:20
+msgid "Edit Mail"
+msgstr ""
+
+#: mail-9/settings.php:21
+msgid "New Mail"
+msgstr ""
+
+#: mail-9/settings.php:22
+msgid "View Mail"
+msgstr ""
+
+#: mail-9/settings.php:23
+msgid "Search Mail"
+msgstr ""
+
+#: mail-9/settings.php:24
+msgid "No mail found."
+msgstr ""
+
+#: mail-9/settings.php:25
+msgid "No mail found in Trash."
+msgstr ""
+
+#: mail-9/settings.php:26
+msgid "Mail Queue"
+msgstr ""
+
+#: mail-9/admin/admin.php:8
+msgid "Mail Settings"
+msgstr ""
+
+#: mail-9/admin/admin.php:20
+#, php-format
+msgid "Send %s mail per minute"
+msgstr ""
+
+#: mail-9/admin/admin.php:30
+msgid "Message Header"
+msgstr ""
+
+#: mail-9/admin/admin.php:33
+msgid "Message Body"
+msgstr ""
+

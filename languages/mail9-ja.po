@@ -1,0 +1,737 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail 9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-02 09:33+0900\n"
+"PO-Revision-Date: 2011-10-02 09:39+0900\n"
+"Last-Translator: Takayuki Miyoshi <takayukister@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SearchPath-0: mail-9\n"
+
+#: mail-9/mail-9.php:5
+msgid "Mail 9 manages your mail queue."
+msgstr "Mail 9 はメールキューを管理します。"
+
+#: mail-9/settings.php:17
+#: mail-9/settings.php:18
+msgid "Mail"
+msgstr "メール"
+
+#: mail-9/settings.php:19
+msgid "Add New Mail"
+msgstr "新規メールを追加"
+
+#: mail-9/settings.php:20
+msgid "Edit Mail"
+msgstr "メール編集"
+
+#: mail-9/settings.php:21
+msgid "New Mail"
+msgstr "新規メール"
+
+#: mail-9/settings.php:22
+msgid "View Mail"
+msgstr "メールを表示"
+
+#: mail-9/settings.php:23
+msgid "Search Mail"
+msgstr "メールを検索"
+
+#: mail-9/settings.php:24
+msgid "No mail found."
+msgstr "メールは見つかりませんでした。"
+
+#: mail-9/settings.php:25
+msgid "No mail found in Trash."
+msgstr "ゴミ箱内にメールが見つかりませんでした。"
+
+#: mail-9/settings.php:26
+msgid "Mail Queue"
+msgstr "メールキュー"
+
+#: mail-9/admin/admin.php:8
+msgid "Mail Settings"
+msgstr "メール設定"
+
+#: mail-9/admin/admin.php:20
+#, php-format
+msgid "Send %s mail per minute"
+msgstr "1分ごとに %s 件のメールを送信"
+
+#: mail-9/admin/admin.php:30
+msgid "Message Header"
+msgstr "メッセージヘッダー"
+
+#: mail-9/admin/admin.php:33
+msgid "Message Body"
+msgstr "メッセージ本文"
+
+#~ msgid "Just another contact form plugin. Simple but flexible."
+#~ msgstr "お問い合わせフォームプラグイン。シンプル、でも柔軟。"
+
+#~ msgid "Contact Forms"
+#~ msgstr "コンタクトフォーム"
+
+#~ msgid "Contact Form"
+#~ msgstr "コンタクトフォーム"
+
+#~ msgid "Contact form %d"
+#~ msgstr "コンタクトフォーム %d"
+
+#~ msgid "Contact Form 7"
+#~ msgstr "Contact Form 7"
+
+#~ msgid "Contact"
+#~ msgstr "お問い合わせ"
+
+#~ msgid "Edit Contact Forms"
+#~ msgstr "コンタクトフォームの編集"
+
+#~ msgid "Generate Tag"
+#~ msgstr "タグの作成"
+
+#~ msgid "http://contactform7.com/"
+#~ msgstr "http://contactform7.com/ja/"
+
+#~ msgid "Contactform7.com"
+#~ msgstr "Contactform7.com (日本語)"
+
+#~ msgid "http://contactform7.com/docs/"
+#~ msgstr "http://contactform7.com/ja/docs-2/"
+
+#~ msgid "Docs"
+#~ msgstr "使い方"
+
+#~ msgid "http://contactform7.com/faq/"
+#~ msgstr "http://contactform7.com/ja/faq-2/"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "http://contactform7.com/support/"
+#~ msgstr "http://contactform7.com/ja/support-2/"
+
+#~ msgid "Support"
+#~ msgstr "サポート"
+
+#~ msgid "Contact form created."
+#~ msgstr "コンタクトフォームが作成されました。"
+
+#~ msgid "Contact form saved."
+#~ msgstr "コンタクトフォームが保存されました。"
+
+#~ msgid "Contact form deleted."
+#~ msgstr "コンタクトフォームが削除されました。"
+
+#~ msgid "Contact Form 7 needs your support. Please donate today."
+#~ msgstr ""
+#~ "Contact Form 7 はあなたの支援を必要としています。寄付をお願いします。"
+
+#~ msgid "Your contribution is needed for making this plugin better."
+#~ msgstr "あなたの貢献があればこのプラグインをもっと良くすることができます。"
+
+#~ msgid "http://contactform7.com/donate/"
+#~ msgstr "http://contactform7.com/ja/donate-2/"
+
+#~ msgid "Donate"
+#~ msgstr "寄付する"
+
+#~ msgid ""
+#~ "Copy this code and paste it into your post, page or text widget content."
+#~ msgstr ""
+#~ "このコードをコピーして、投稿、ページ、またはテキストウィジェットの本文内に"
+#~ "ペーストしてください。"
+
+#~ msgid "Old code is also available."
+#~ msgstr "古いコードも利用可能です。"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "Copy"
+#~ msgstr "複製"
+
+#~ msgid "Delete"
+#~ msgstr "削除 "
+
+#~ msgid ""
+#~ "You are about to delete this contact form.\n"
+#~ "  'Cancel' to stop, 'OK' to delete."
+#~ msgstr ""
+#~ "このコンタクトフォームを削除しようとしています。\n"
+#~ "  'キャンセル' で中止、 'OK' で削除します。"
+
+#~ msgid "Form"
+#~ msgstr "フォーム"
+
+#~ msgid "Mail (2)"
+#~ msgstr "メール (2)"
+
+#~ msgid "Use mail (2)"
+#~ msgstr "メール (2) を使う"
+
+#~ msgid "Messages"
+#~ msgstr "メッセージ"
+
+#~ msgid "Additional Settings"
+#~ msgstr "その他の設定"
+
+#~ msgid "Use the default language (%s)"
+#~ msgstr "デフォルトの言語を使用する (%s)"
+
+#~ msgid "Or"
+#~ msgstr "または"
+
+#~ msgid "(select language)"
+#~ msgstr "(言語を選択)"
+
+#~ msgid "To:"
+#~ msgstr "宛先:"
+
+#~ msgid "From:"
+#~ msgstr "差出人:"
+
+#~ msgid "Subject:"
+#~ msgstr "件名:"
+
+#~ msgid "Additional headers:"
+#~ msgstr "追加ヘッダー:"
+
+#~ msgid "File attachments:"
+#~ msgstr "ファイル添付:"
+
+#~ msgid "Use HTML content type"
+#~ msgstr "HTML 形式のメールを使用する"
+
+#~ msgid "Untitled"
+#~ msgstr "無題"
+
+#~ msgid "Sender's message was sent successfully"
+#~ msgstr "メッセージが正常に送信された"
+
+#~ msgid "Your message was sent successfully. Thanks."
+#~ msgstr "あなたのメッセージは送信されました。ありがとうございました。"
+
+#~ msgid "Sender's message was failed to send"
+#~ msgstr "メッセージの送信に失敗した"
+
+#~ msgid ""
+#~ "Failed to send your message. Please try later or contact administrator by "
+#~ "other way."
+#~ msgstr ""
+#~ "メッセージの送信に失敗しました。間をおいてもう一度お試しいただくか、別の手"
+#~ "段で管理者にお問い合わせ下さい。"
+
+#~ msgid "Validation errors occurred"
+#~ msgstr "入力内容に不備が見つかった"
+
+#~ msgid ""
+#~ "Validation errors occurred. Please confirm the fields and submit it again."
+#~ msgstr "入力内容に不備があります。確認してもう一度送信してください。"
+
+#~ msgid "There is a field of term that sender is needed to accept"
+#~ msgstr "承諾が必要な項目が承諾されていない"
+
+#~ msgid "Please accept the terms to proceed."
+#~ msgstr "進めるには条項の承諾が必要です。"
+
+#~ msgid "Email address that sender entered is invalid"
+#~ msgstr "入力されたメールアドレスの形式が正しくない"
+
+#~ msgid "Email address seems invalid."
+#~ msgstr "メールアドレスの形式が正しくないようです。"
+
+#~ msgid "There is a field that sender is needed to fill in"
+#~ msgstr "入力必須の項目が入力されていない"
+
+#~ msgid "Please fill the required field."
+#~ msgstr "必須項目に記入もれがあります。"
+
+#~ msgid "Your Name"
+#~ msgstr "お名前"
+
+#~ msgid "(required)"
+#~ msgstr "(必須）"
+
+#~ msgid "Your Email"
+#~ msgstr "メールアドレス"
+
+#~ msgid "Subject"
+#~ msgstr "題名"
+
+#~ msgid "Your Message"
+#~ msgstr "メッセージ本文"
+
+#~ msgid "Send"
+#~ msgstr "送信"
+
+#~ msgid "From: %s"
+#~ msgstr "差出人: %s"
+
+#~ msgid "Subject: %s"
+#~ msgstr "題名: %s"
+
+#~ msgid "This mail is sent via contact form on %1$s %2$s"
+#~ msgstr "このメールは %1$s %2$s のお問い合わせフォームから送信されました"
+
+#~ msgid "Afrikaans"
+#~ msgstr "アフリカーンス語"
+
+#~ msgid "Albanian"
+#~ msgstr "アルバニア語"
+
+#~ msgid "Arabic"
+#~ msgstr "アラビア語"
+
+#~ msgid "Armenian"
+#~ msgstr "アルメニア語"
+
+#~ msgid "Bangla"
+#~ msgstr "ベンガル語"
+
+#~ msgid "Bosnian"
+#~ msgstr "ボスニア語"
+
+#~ msgid "Brazilian Portuguese"
+#~ msgstr "ブラジルのポルトガル語"
+
+#~ msgid "Bulgarian"
+#~ msgstr "ブルガリア語"
+
+#~ msgid "Catalan"
+#~ msgstr "カタルーニャ語"
+
+#~ msgid "Chinese (Simplified)"
+#~ msgstr "中国語 (簡体字)"
+
+#~ msgid "Chinese (Traditional)"
+#~ msgstr "中国語 (繁体字)"
+
+#~ msgid "Croatian"
+#~ msgstr "クロアチア語"
+
+#~ msgid "Czech"
+#~ msgstr "チェコ語"
+
+#~ msgid "Danish"
+#~ msgstr "デンマーク語"
+
+#~ msgid "Dutch"
+#~ msgstr "オランダ語"
+
+#~ msgid "English"
+#~ msgstr "英語"
+
+#~ msgid "Estonian"
+#~ msgstr "エストニア語"
+
+#~ msgid "Finnish"
+#~ msgstr "フィンランド語"
+
+#~ msgid "French"
+#~ msgstr "フランス語"
+
+#~ msgid "Galician"
+#~ msgstr "ガリシア語"
+
+#~ msgid "Georgian"
+#~ msgstr "グルジア語"
+
+#~ msgid "German"
+#~ msgstr "ドイツ語"
+
+#~ msgid "Greek"
+#~ msgstr "ギリシャ語"
+
+#~ msgid "Hebrew"
+#~ msgstr "ヘブライ語"
+
+#~ msgid "Hindi"
+#~ msgstr "ヒンディー語"
+
+#~ msgid "Hungarian"
+#~ msgstr "ハンガリー語"
+
+#~ msgid "Indonesian"
+#~ msgstr "インドネシア語"
+
+#~ msgid "Italian"
+#~ msgstr "イタリア語"
+
+#~ msgid "Japanese"
+#~ msgstr "日本語"
+
+#~ msgid "Korean"
+#~ msgstr "韓国語"
+
+#~ msgid "Latvian"
+#~ msgstr "ラトビア語"
+
+#~ msgid "Lithuanian"
+#~ msgstr "リトアニア語"
+
+#~ msgid "Macedonian"
+#~ msgstr "マケドニア語"
+
+#~ msgid "Malay"
+#~ msgstr "マレー語"
+
+#~ msgid "Malayalam"
+#~ msgstr "マラヤーラム語"
+
+#~ msgid "Norwegian"
+#~ msgstr "ノルウェー語"
+
+#~ msgid "Persian"
+#~ msgstr "ペルシア語"
+
+#~ msgid "Polish"
+#~ msgstr "ポーランド語"
+
+#~ msgid "Portuguese"
+#~ msgstr "ポルトガル語"
+
+#~ msgid "Russian"
+#~ msgstr "ロシア語"
+
+#~ msgid "Romanian"
+#~ msgstr "ルーマニア語"
+
+#~ msgid "Serbian"
+#~ msgstr "セルビア語"
+
+#~ msgid "Sinhala"
+#~ msgstr "シンハラ語"
+
+#~ msgid "Slovak"
+#~ msgstr "スロバキア語"
+
+#~ msgid "Slovene"
+#~ msgstr "スロベニア語"
+
+#~ msgid "Spanish"
+#~ msgstr "スペイン語"
+
+#~ msgid "Swedish"
+#~ msgstr "スウェーデン語"
+
+#~ msgid "Tamil"
+#~ msgstr "タミル語"
+
+#~ msgid "Thai"
+#~ msgstr "タイ語"
+
+#~ msgid "Turkish"
+#~ msgstr "トルコ語"
+
+#~ msgid "Ukrainian"
+#~ msgstr "ウクライナ語"
+
+#~ msgid "Vietnamese"
+#~ msgstr "ベトナム語"
+
+#~ msgid "Acceptance"
+#~ msgstr "承諾の確認"
+
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgid "optional"
+#~ msgstr "オプション"
+
+#~ msgid "Make this checkbox checked by default?"
+#~ msgstr "初期状態でチェックボックスにチェックを入れますか?"
+
+#~ msgid "Make this checkbox work inversely?"
+#~ msgstr "チェックボックスを反転させますか?"
+
+#~ msgid "* That means visitor who accepts the term unchecks it."
+#~ msgstr ""
+#~ "* つまり、利用者には条項に承諾する場合にチェックボックスのチェックをはずし"
+#~ "てもらいます。"
+
+#~ msgid "Copy this code and paste it into the form left."
+#~ msgstr "このコードをコピーして、左のフォーム内にペーストしてください。"
+
+#~ msgid "Akismet judged the sending activity as spamming"
+#~ msgstr "Akismet によりスパム行為と判定された"
+
+#~ msgid ""
+#~ "To use CAPTCHA, you need <a href=\"http://wordpress.org/extend/plugins/"
+#~ "really-simple-captcha/\">Really Simple CAPTCHA</a> plugin installed."
+#~ msgstr ""
+#~ "CAPTCHA を使うには <a href=\"http://wordpress.org/extend/plugins/really-"
+#~ "simple-captcha/\">Really Simple CAPTCHA</a> プラグインのインストールが必要"
+#~ "です。"
+
+#~ msgid "The code that sender entered does not match the CAPTCHA"
+#~ msgstr "入力されたコードが CAPTCHA に適合していない"
+
+#~ msgid "Your entered code is incorrect."
+#~ msgstr "入力されたコードが正しくありません。"
+
+#~ msgid "CAPTCHA"
+#~ msgstr "CAPTCHA"
+
+#~ msgid ""
+#~ "Note: To use CAPTCHA, you need Really Simple CAPTCHA plugin installed."
+#~ msgstr ""
+#~ "お知らせ: CAPTCHA を使うには Really Simple CAPTCHA プラグインのインストー"
+#~ "ルが必要です。"
+
+#~ msgid "Image settings"
+#~ msgstr "画像の設定"
+
+#~ msgid "Foreground color"
+#~ msgstr "文字色"
+
+#~ msgid "Background color"
+#~ msgstr "背景色"
+
+#~ msgid "Image size"
+#~ msgstr "画像サイズ"
+
+#~ msgid "Small"
+#~ msgstr "小"
+
+#~ msgid "Medium"
+#~ msgstr "中"
+
+#~ msgid "Large"
+#~ msgstr "大"
+
+#~ msgid "Input field settings"
+#~ msgstr "入力項目の設定"
+
+#~ msgid "For image"
+#~ msgstr "画像"
+
+#~ msgid "For input field"
+#~ msgstr "入力項目"
+
+#~ msgid ""
+#~ "This contact form contains CAPTCHA fields, but the temporary folder for "
+#~ "the files (%s) does not exist or is not writable. You can create the "
+#~ "folder or change its permission manually."
+#~ msgstr ""
+#~ "このコンタクトフォームは CAPTCHA の項目を含んでいますが、そのファイルのた"
+#~ "めの一時フォルダ (%s) が存在しないか、あるいは書き込み可能ではありません。"
+#~ "このフォルダを手動で作成するか、パーミッションの変更を行うと解決できるで"
+#~ "しょう。"
+
+#~ msgid ""
+#~ "This contact form contains CAPTCHA fields, but the necessary libraries "
+#~ "(GD and FreeType) are not available on your server."
+#~ msgstr ""
+#~ "このコンタクトフォームは CAPTCHA の項目を含んでいますが、お使いのサーバー"
+#~ "では必要なライブラリ (GD および FreeType) が利用可能でありません。"
+
+#~ msgid "Checkboxes"
+#~ msgstr "チェックボックス"
+
+#~ msgid "Radio buttons"
+#~ msgstr "ラジオボタン"
+
+#~ msgid "Required field?"
+#~ msgstr "必須入力の項目ですか?"
+
+#~ msgid "Choices"
+#~ msgstr "選択項目"
+
+#~ msgid "* One choice per line."
+#~ msgstr "* 1行ごとに分けて入力してください。"
+
+#~ msgid "Put a label first, a checkbox last?"
+#~ msgstr "ラベルを先に、チェックボックスを後に置きますか?"
+
+#~ msgid "Wrap each item with <label> tag?"
+#~ msgstr "個々の項目を <label> タグで囲みますか?"
+
+#~ msgid "Make checkboxes exclusive?"
+#~ msgstr "チェックボックスを排他化しますか?"
+
+#~ msgid "And, put this code into the Mail fields below."
+#~ msgstr "それから、このコードを下のメールの項目中に置いてください。"
+
+#~ msgid "Uploading a file fails for any reason"
+#~ msgstr "ファイルのアップロードが何らかの理由により失敗している"
+
+#~ msgid "Failed to upload file."
+#~ msgstr "ファイルのアップロードに失敗しました。"
+
+#~ msgid "Uploaded file is not allowed file type"
+#~ msgstr "アップロードされたファイルが許可されたファイル形式に適合しない"
+
+#~ msgid "This file type is not allowed."
+#~ msgstr "許可されていないファイル形式です。"
+
+#~ msgid "Uploaded file is too large"
+#~ msgstr "アップロードされたファイルが大きすぎる"
+
+#~ msgid "This file is too large."
+#~ msgstr "ファイルが大きすぎます。"
+
+#~ msgid "Uploading a file fails for PHP error"
+#~ msgstr "ファイルのアップロードが PHP のエラーにより失敗している"
+
+#~ msgid "Failed to upload file. Error occurred."
+#~ msgstr "ファイルのアップロードに失敗しました。エラーが発生しています。"
+
+#~ msgid "File upload"
+#~ msgstr "ファイルのアップロード"
+
+#~ msgid "File size limit"
+#~ msgstr "ファイルサイズの上限"
+
+#~ msgid "bytes"
+#~ msgstr "バイト"
+
+#~ msgid "Acceptable file types"
+#~ msgstr "受け入れ可能なファイル形式"
+
+#~ msgid "And, put this code into the File Attachments field below."
+#~ msgstr "それから、このコードを下のファイル添付の項目中に置いてください。"
+
+#~ msgid ""
+#~ "This contact form contains file uploading fields, but the temporary "
+#~ "folder for the files (%s) does not exist or is not writable. You can "
+#~ "create the folder or change its permission manually."
+#~ msgstr ""
+#~ "このコンタクトフォームはファイルアップロード項目を含んでいますが、そのファ"
+#~ "イルのための一時フォルダ (%s) が存在しないか、あるいは書き込み可能ではあり"
+#~ "ません。このフォルダを手動で作成するか、パーミッションの変更を行うと解決で"
+#~ "きるでしょう。"
+
+#~ msgid ""
+#~ "This contact form contains [icl] tags, but they are obsolete and no "
+#~ "longer functioning on this version of Contact Form 7. <a href=\"http://"
+#~ "contactform7.com/2009/12/25/contact-form-in-your-language/"
+#~ "#Creating_contact_form_in_different_languages\" target=\"_blank\">There "
+#~ "is a simpler way for creating contact forms of other languages</a> and "
+#~ "you are recommended to use it."
+#~ msgstr ""
+#~ "このコンタクトフォームは [icl] タグを含んでいますが、それらはこのバージョ"
+#~ "ンの Contact Form 7 では廃止されており、機能していません。<a href="
+#~ "\"http://contactform7.com/ja/2009/12/25/contact-form-in-your-language-2/"
+#~ "#Creating_contact_form_in_different_languages\" target=\"_blank\">他の言語"
+#~ "のコンタクトフォームを作成するためのより簡単な方法</a>が導入されており、そ"
+#~ "ちらの利用が推奨されます。"
+
+#~ msgid "Sender doesn't enter the correct answer to the quiz"
+#~ msgstr "クイズに対する正しい答えが入力されなかった"
+
+#~ msgid "Your answer is not correct."
+#~ msgstr "答えが正しくありません。"
+
+#~ msgid "Quiz"
+#~ msgstr "クイズ"
+
+#~ msgid "Quizzes"
+#~ msgstr "質問と答え"
+
+#~ msgid "* quiz|answer (e.g. 1+1=?|2)"
+#~ msgstr "* 質問|答え (例: 1+1=?|2)"
+
+#~ msgid "Drop-down menu"
+#~ msgstr "ドロップダウン・メニュー"
+
+#~ msgid "Allow multiple selections?"
+#~ msgstr "複数選択を可能にしますか?"
+
+#~ msgid "Insert a blank item as the first option?"
+#~ msgstr "先頭に空の項目を挿入しますか?"
+
+#~ msgid "Sending ..."
+#~ msgstr "送信中 ..."
+
+#~ msgid "Submit button"
+#~ msgstr "送信ボタン"
+
+#~ msgid "Label"
+#~ msgstr "ラベル"
+
+#~ msgid "Text field"
+#~ msgstr "テキスト項目"
+
+#~ msgid "Email field"
+#~ msgstr "メールアドレス項目"
+
+#~ msgid "Akismet"
+#~ msgstr "Akismet"
+
+#~ msgid "This field requires author's name"
+#~ msgstr "送信者の名前の入力を要求する項目"
+
+#~ msgid "This field requires author's URL"
+#~ msgstr "送信者の URL の入力を要求する項目"
+
+#~ msgid "This field requires author's email address"
+#~ msgstr "送信者のメールアドレスの入力を要求する項目"
+
+#~ msgid "Default value"
+#~ msgstr "デフォルト値"
+
+#~ msgid "Use this text as watermark?"
+#~ msgstr "このテキストを透かしとして使いますか?"
+
+#~ msgid "Text area"
+#~ msgstr "テキストエリア"
+
+#~ msgid "Show"
+#~ msgstr "表示"
+
+#~ msgid "Hide"
+#~ msgstr "非表示"
+
+#~ msgid "Database table created."
+#~ msgstr "データベーステーブルを作成しました。"
+
+#~ msgid "Failed to create database table."
+#~ msgstr "データベーステーブルを作成できませんでした。"
+
+#~ msgid ""
+#~ "<strong>The database table for Contact Form 7 does not exist.</strong> "
+#~ "You must <a href=\"%s\">create the table</a> for it to work."
+#~ msgstr ""
+#~ "<strong>Contact Form 7 のデータベーステーブルがありません。</strong><a "
+#~ "href=\"%s\">テーブルを作成</a>する必要があります。"
+
+#~ msgid ""
+#~ "<strong>The database table for Contact Form 7 does not exist.</strong>"
+#~ msgstr ""
+#~ "<strong>Contact Form 7 のデータベーステーブルがありません。</strong>"
+
+#~ msgid "Add new"
+#~ msgstr "新規追加"
+
+#~ msgid ""
+#~ "Is this plugin useful for you? If you like it, please help the developer."
+#~ msgstr ""
+#~ "このプラグインは役に立っていますか? プラグインの開発を続けるためにあなたの"
+#~ "支援が必要です。"
+
+#~ msgid ""
+#~ "Developing a plugin and providing user support is really hard work. "
+#~ "Please help."
+#~ msgstr ""
+#~ "プラグインを開発してユーザーサポートを提供するというのはとても大変な仕事で"
+#~ "す。ちょっとでいいから助けてください。"
+
+#~ msgid "This mail is created by Contact Form 7 plugin for WordPress."
+#~ msgstr ""
+#~ "このメールは WordPress の Contact Form 7 プラグインにより作成されました。"
+
+#~ msgid "(You need WordPress 2.7 or greater to use this feature)"
+#~ msgstr "(この機能を使うためには WordPress 2.7 以上が必要です)"
+
+#~ msgid "Delete this contact form"
+#~ msgstr "このコンタクトフォームを削除"
