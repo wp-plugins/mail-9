@@ -56,7 +56,8 @@ function mail9_cron_schedules( $schedules ) {
 	return $schedules;
 }
 
-if ( ! defined( 'WP_INSTALLING' ) && ! wp_next_scheduled( 'mail9_minutely_event' ) )
+if ( ! defined( 'WP_INSTALLING' )
+&& ! defined( 'MAIL9_STOP_CRON' ) && ! wp_next_scheduled( 'mail9_minutely_event' ) )
 	wp_schedule_event( time(), 'minutely', 'mail9_minutely_event' );
 
 add_action( 'mail9_minutely_event', 'mail9_dequeue' );
